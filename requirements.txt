@@ -4,3 +4,4 @@ python-can
 can-isotp
 udsoncan
 tinyscript>=1.24.14
+markdown2>=2.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
